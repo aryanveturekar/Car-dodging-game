@@ -183,7 +183,7 @@ while (count > 0):
     font = pygame.font.SysFont(None, 52)
     if (count == 0):
 
-        drawText('Game Over', font, windowSurface, (WINDOWWIDTH / 3)+40, (WINDOWHEIGHT / 3)+70)
+        drawText('GAME OVER!!!', font, windowSurface, (WINDOWWIDTH / 3)+40, (WINDOWHEIGHT / 3)+70)
         drawText('Press any key to play again.', font, windowSurface, (WINDOWWIDTH /3) - 110, (WINDOWHEIGHT / 3) + 95)
         pygame.display.update()
         time.sleep(2)
