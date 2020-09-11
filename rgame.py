@@ -14,7 +14,7 @@ ADDNEWBADDIERATE = 6
 PLAYERMOVERATE = 5
 count = 3
 topScore=0
-
+    
 def terminate():
     pygame.quit()
     sys.exit()
