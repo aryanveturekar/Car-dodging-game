@@ -3,7 +3,7 @@ from pygame.locals import *
                                   
 WINDOWWIDTH = 700                 
 WINDOWHEIGHT = 600  
-TEXTCOLOR = (255, 255, 255)  
+TEXTCOLOR = (255, 255, 255)       
 BACKGROUNDCOLOR = (0, 0, 0)                               
 FPS = 40
 BADDIEMINSIZE = 10          
